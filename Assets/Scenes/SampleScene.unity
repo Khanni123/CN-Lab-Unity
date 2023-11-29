@@ -697,7 +697,7 @@ MonoBehaviour:
   CreateRoomSCreen: {fileID: 1422452674}
   roomNameInput: {fileID: 509648904}
   createdRoomScreen: {fileID: 1496186406}
-  roomNameText: {fileID: 0}
+  roomNameText: {fileID: 1120074056}
 --- !u!114 &707836576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -774,10 +774,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1904107522}
+  - {fileID: 724221000}
   - {fileID: 1422452675}
   - {fileID: 1496186407}
   - {fileID: 1196271418}
-  - {fileID: 724221000}
   - {fileID: 1621671135}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
